@@ -1,1 +1,1 @@
-This is my first working directory in shell basics
+Writing a script that prints the absolute path name of the current working directory.s
